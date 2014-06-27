@@ -227,12 +227,12 @@ body {
 .logos {
 	width: 900px;
 	height: 100px;
-	margin: 50px 300px;
+	margin: 50px 290px;
 	text-align:center;
 }
 .about {
 	width: 1425px;
-	height: 300px;
+	height: 400px;
 	background-color: #0d347f;
 	color:white;
 }
@@ -255,4 +255,30 @@ body {
 }
 .soft {
 	color: #fdbc25;
+	margin-bottom: 50px;
+}
+.footer {
+	background-color:#063062;
+	color:white;
+}
+.links {
+	list-style-type: none;
+	margin: 0;
+	padding: 30px 0px 0px 300px;
+	li {
+		display: inline;
+	}
+	a {
+		text-decoration: none;
+		color: lightblue;
+	}
+	ul {
+		padding:0px;
+	}
+}
+.chat {
+	color: #fdbc25;
+	position: relative;
+	left: 1050px;
+	bottom: 50px;
 }
