@@ -140,8 +140,7 @@ body {
     border-radius: 100px;
     -moz-box-shadow: 0px 0px 2px #888;
     -webkit-box-shadow: 0px 0px 2px #888;
-    box-shadow: 0px 0px 2px #888;
-    margin-left: 30%; }
+    box-shadow: 0px 0px 2px #888; }
   .container h1 {
     text-align: center; }
 
@@ -193,3 +192,35 @@ body {
   position: absolute;
   left: 850px;
   top: 20px; }
+
+.logos {
+  width: 900px;
+  height: 100px;
+  margin: 50px 300px;
+  text-align: center; }
+
+.about {
+  width: 1425px;
+  height: 300px;
+  background-color: #0d347f;
+  color: white; }
+
+.aboutus {
+  margin-left: 300px;
+  width: 600px;
+  float: left;
+  padding-right: 50px;
+  margin-top: 30px; }
+
+.getintouch {
+  padding-top: 30px; }
+
+.contact {
+  margin-bottom: 5px; }
+
+.fav {
+  color: lightblue;
+  margin-bottom: 5px; }
+
+.soft {
+  color: #fdbc25; }
